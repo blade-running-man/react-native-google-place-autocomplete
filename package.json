@@ -1,0 +1,19 @@
+{
+    "name": "react-native-google-place-autocomplete",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "author": "",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/blade-running-man/react-native-google-place-autocomplete"
+    },
+    "bugs": {
+      "url": "https://github.com/blade-running-man/react-native-google-place-autocomplete/issues"
+    },
+    "homepage": "https://github.com/blade-running-man/react-native-google-place-autocomplete#readme",
+    "peerDependencies": {
+      "react-native": ">= 0.59.8"
+    }
+  }
